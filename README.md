@@ -1,5 +1,5 @@
 ## Olá, Mundo! 👋
-<h2 align="center">Sou Vinicios Mucheirone 💻 ,</h2>
+<h2 align="center">Sou Vinicios Mucheirone 💻</h2>
 
 <p align="center">
   <img src="/giphy.gif" alt="Descrição da imagem" width="200"/>
