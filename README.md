@@ -1,9 +1,9 @@
 ## Olá, Mundo! 👋
-<h2 align="center">Sou Vinicios Mucheirone,</h2>
+<h2 align="center">Sou Vinicios Mucheirone 💻 ,</h2>
 
-<div style="text-align: center;">
+<p align="center">
   <img src="/giphy.gif" alt="Descrição da imagem" width="200"/>
-</div>
+</p>
 
 - 💼 Farmacêutico clínico com 7 anos de experiência em drogaria e também vivência no âmbito hospitalar. .
 - 📚 Em transição de carreira para Dados
