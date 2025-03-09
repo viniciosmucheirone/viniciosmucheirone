@@ -26,7 +26,7 @@
 
 ## 📚 Educação
 
-- **Análise e Desenvolvimento de Sistemas** - Faculdade Impacta (Jan/2025 - Presente)
+- **Banco de Dados - Análise de Dados, Big Data e Engenharia de Dados** - Faculdade Impacta (Jan/2025 - Presente)
 - **Especialização, Farmácia Clínica e Atenção Farmacêutica** - PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul (Jan/2024 - Dez/2024)
 - **Bacharelado, Farmácia** - UNINOVE (Fev/2017 - Dez/2020)
 - **Cursos e Certificações Relevantes**
