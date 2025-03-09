@@ -15,13 +15,13 @@
 
 <div align="center">
   <a href="https://github.com/cellineb">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=cellineb&theme=radical" alt="GitHub Streak" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciosmucheirone&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cellineb&theme=radical&layout=compact&hide_border=true" alt="Top Languages by Repo" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cellineb&theme=radical&layout=compact&hide_border=true" alt="Top Languages by Commit" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciosmucheirone&theme=radical&layout=compact&hide_border=true" alt="Top Languages by Repo" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciosmucheirone&theme=radical&layout=compact&hide_border=true" alt="Top Languages by Commit" />
 </div>
 
 ## 📚 Educação
