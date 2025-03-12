@@ -14,7 +14,7 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/cellineb">
+  <a href="https://github.com/viniciosmucheirone">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciosmucheirone&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
