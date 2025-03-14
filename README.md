@@ -6,10 +6,11 @@
 </p>
 
 ## 💻 Sobre Mim
-- 💼 Farmacêutico clínico com 7 anos de experiência em drogaria e também vivência no âmbito hospitalar.
-- 📚 Em transição de carreira para Dados
-- 📚 Cursando Banco de Dados com foco em Ciência de Dados na Faculdade Impacta Tecnologia.
-- 🌱 Aprendendo sobre análise de dados e Big Data.
+- 💼 Farmacêutico clínico com 7 anos de experiência em drogaria e também vivência no âmbito hospitalar;
+- 📚 Em transição de carreira para Dados;
+- 📚 Cursando Banco de Dados, Análise de Dados, Big Data e Engenharia de Dados;
+- 📚 Cursando a formação "Analista de Dados 4.0" da Data Science Academy, com foco em SQL, Projetos Python, Power BI e Google BigQuery.
+
 
 ## 📊 Estatísticas GitHub
 
