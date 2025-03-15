@@ -6,11 +6,15 @@
 </p>
 
 ## 💻 Sobre Mim
-- 💼 Farmacêutico clínico com 7 anos de experiência em drogaria e também vivência no âmbito hospitalar;
-- 📚 Em transição de carreira para Dados;
-- 📚 Cursando Banco de Dados, Análise de Dados, Big Data e Engenharia de Dados;
-- 📚 Cursando a formação "Analista de Dados 4.0" da Data Science Academy, com foco em SQL, Projetos Python, Power BI e Google BigQuery.
+No início da minha carreira profissional acabei ingressando na área da saúde, mais especificamente em drogarias, e por esse motivo, decidi realizar a faculdade de farmácia pela Universidade Nove de Julho - Uninove.
 
+Após a faculdade, comecei a atuar como farmacêutico e adquiri conhecimento técnico e científico, com domínio sobre medicamentos, atenção ao paciente, trabalho em equipe e conhecimento sobre vendas e atendimento. Posteriormente, realizei uma pós graduação em Farmácia Clínica pela Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS, onde pude aprimorar minhas habilidades.
+
+Atualmente estou realizando o curso superior em Banco de Dados- Análise de Dados, Big Data e Engenharia de Dados na Faculdade Impacta Tecnologia, e também cursando a formação "Analista de Dados 4.0" na Data Science Academy.
+
+Durante minha trajetória como farmacêutico, sempre tive interesse pela área de tecnologia, o que me levou a considerar uma migração de carreira. A cada dia, sinto mais convicção de que tomei a decisão correta, e tenho plena consciência de que o aprendizado contínuo e a determinação são fundamentais para alcançar o sucesso profissional.
+
+Link GitHub: https://github.com/viniciosmucheirone
 
 ## 📊 Estatísticas GitHub
 
